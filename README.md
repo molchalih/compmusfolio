@@ -1,2 +1,2 @@
 # monorepo
-### for computational musicology course
+## for computational musicology course
